@@ -1,5 +1,5 @@
 <b><u>Name</u></b> : Bharat Rajan
-</br>
+
 <b><u>Skills</u></b> : JavaScript, UI, Google polymer, React JS, Redux, React native, AWS, Java, Node JS, ES6
 
 
